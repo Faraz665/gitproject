@@ -1,3 +1,4 @@
 console.log("hello faraz")
 console.log("hi");
-console.log("new 
+console.log("new code to be added"); 
+
